@@ -1,0 +1,7 @@
+Arduino <-> C# via socket
+
+How to communicate using network sockets between Arduino and a C# application.
+
+
+Project description on my blog:
+http://www.lucadentella.it/2013/01/31/da-arduino-a-c-via-socket/
